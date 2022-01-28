@@ -12,7 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: Android
   m_EditorClassIdentifier: 
-  features: []
+  features:
+  - {fileID: 4692016028814125806}
+  - {fileID: -600542192915791561}
+  - {fileID: -1876272718103081548}
+  - {fileID: 1981939047024455994}
+  - {fileID: -272132791087367752}
+  - {fileID: -7910492440812350028}
+  - {fileID: 5726326148755657289}
   m_renderMode: 1
   m_depthSubmissionMode: 0
 --- !u!114 &-8120479194075444181
@@ -190,6 +197,7 @@ MonoBehaviour:
   m_Name: MockDriver Standalone
   m_EditorClassIdentifier: 
   m_enabled: 0
+  <failedInitialization>k__BackingField: 0
   nameUi: Mock Driver
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.mockdriver
@@ -353,7 +361,6 @@ MonoBehaviour:
   - {fileID: -1261002109590930966}
   - {fileID: 399558533979060650}
   - {fileID: -4719751458945629607}
-  - {fileID: -3850607372379667325}
   - {fileID: 8399057233798297546}
   - {fileID: -8120479194075444181}
   - {fileID: -5904155485474051544}
