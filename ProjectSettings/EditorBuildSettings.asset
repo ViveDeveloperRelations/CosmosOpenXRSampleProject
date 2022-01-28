@@ -9,5 +9,6 @@ EditorBuildSettings:
     path: Assets/Samples/OpenXR Plugin/1.2.8/Controller/ControllerSample.unity
     guid: edb91e86bd8b7dc4ca40ad6c3167de73
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 132fa6e99fd74914ba13dcc97f8ea505, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0256f245d30282848b0671a0888f72a4, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6f57ae4df1beff44b970938ddf7bb5fb, type: 2}
